@@ -1,70 +1,9 @@
-# Getting Started with Create React App
+For my chosen work on creating a to-do list, I applied several essential skills, including time management, task prioritization, and user-centric design. The process began with identifying the key features that would make the to-do list both functional and user-friendly.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Firstly, I focused on time management by breaking the overall project into smaller, more manageable tasks. This helped in tracking progress and staying organized throughout the development process. I set specific deadlines for each phase, such as outlining the features, coding the front-end, and testing the application.
 
-## Available Scripts
+Secondly, I applied task prioritization by determining which features were most important to the user. The to-do list needed to be intuitive and efficient, so I prioritized tasks like adding, editing, and removing items, as well as setting deadlines and notifications. This approach ensured that the most critical features were completed first, and I could add additional functionalities, such as categories or color-coding, afterward.
 
-In the project directory, you can run:
+I also focused on user-centric design principles, ensuring the interface was simple and easy to navigate. I considered common use cases, such as the ability to mark tasks as complete, organize them by priority, and view them based on due dates. To further improve the user experience, I incorporated features like drag-and-drop functionality for task reordering and customizable alerts for approaching deadlines.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Throughout the project, I applied problem-solving skills to address issues that arose during testing, such as compatibility with different devices or optimizing performance for faster load times. Ultimately, by combining effective time management, task prioritization, and a focus on user experience, I successfully created a functional and reliable to-do list.
